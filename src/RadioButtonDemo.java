@@ -40,6 +40,7 @@ public class RadioButtonDemo extends JPanel implements ActionListener {
         JOptionPane.showMessageDialog(this,
                 "You selected: " + pet,
                 "Your Selection",
+                
                 JOptionPane.INFORMATION_MESSAGE);
     }
 
